@@ -9,5 +9,5 @@ and it will give you a estimate of how many players per trio,duo or solos are le
 
 Some people may think its not useful but it is in high ranked lobbys.
 DISCLAIMER
-this was made using chaptGPT
+this was made using chatGPT
 i did not write any of the code or take any credit.
